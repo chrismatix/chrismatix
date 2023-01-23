@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-My name is Christoph Pröschel, Full Stack engineer and Machine Learning enthusiast.
+My name is Christoph Pröschel, Full Stack engineer and Machine Learning researcher.
 
 Currently: 
 - 🌍 Freelancing. Talk to me about projects related to Climate Change and social justice. 
 - 👨‍💻 Contributing to [open source](https://github.com/airyhq/airy).
-- 🧑‍🎓 Msc @ TU Berlin. Focus: Machine Learning and Climate Policy.
+- 🧑‍🎓 Msc @ TU Berlin. Thesis: Optimal Climate negotiation strategies via Multi-Agent Reinforcement Learning.
 
 
 
