@@ -5,7 +5,7 @@ My name is Christoph Pröschel, Full Stack engineer and Machine Learning researc
 Currently: 
 - 🌍 Freelancing. Talk to me about projects related to Climate Change and social justice. 
 - 👨‍💻 Contributing to [open source](https://github.com/airyhq/airy).
-- 🧑‍🎓 Msc @ TU Berlin. Thesis: Optimal Climate negotiation strategies via Multi-Agent Reinforcement Learning.
+- 🧑‍🎓 Msc @ TU Berlin. Thesis: Multi-Agent Reinforcement Learning for Dynamic Climate Policy Games
 
 
 
