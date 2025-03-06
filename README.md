@@ -11,10 +11,3 @@ Highlights from the past:
 - 🚀 Co-Founder of [weview.tv (Techstars '18)](https://x.com/weview)
 - 🧑‍🎓 Msc @ TU Berlin. Thesis: Multi-Agent Reinforcement Learning for Dynamic Climate Policy Games [link](https://chrismati.cz/posts/marl-for-dynamic-climate-policy-games/)
 
-
-
-----
-
-<a href="https://www.linkedin.com/in/christophproschel/">
-  <img align="left" alt="Christoph Pröschel's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
